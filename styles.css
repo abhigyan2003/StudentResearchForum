@@ -12,7 +12,7 @@ padding: 20px 40px;
 }
 
 main {
-background-image: url('/w19.jpg');
+background-image: url('/image.png');
 background-size: cover;
 background-position: center;
 }
@@ -55,7 +55,7 @@ background-color: #f4f4f4;
 }
 
 header {
-background-color: #333;
+background-color: #000000;
 color: white;
 display: flex;
 align-items: center;
@@ -73,7 +73,7 @@ flex: .5;
 /* height: 200px; */
 width: 150px; /* Increase this value as needed */
 height: auto; /* Maintain aspect ratio */
-transform: scale(2);
+transform: scale(1.8);
 }
 
 
@@ -151,7 +151,7 @@ border-radius: 8px; /* Optional: Add some border radius for better visuals */
 main {
 position: relative;
 padding: 20px;
-background-image: url('/w19.jpg');
+background-image: url('/image.png');
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -165,7 +165,7 @@ top: 0;
 left: 0;
 width: 100%;
 height: 100%;
-background-color: rgba(0, 0, 0, 0.5); /* Adjust opacity as needed */
+background-color: rgba(0, 0, 0, 0.1); /* Adjust opacity as needed */
 z-index: 1;
 }
 
@@ -190,13 +190,13 @@ margin-bottom: 20px;
 
 h3 {
 font-size: 20px;
-color: #333;
+color: #000000;
 margin-top: 20px;
 }
 
 h4 {
 font-size: 18px;
-color: #333;
+color: #000000;
 margin-top: 15px;
 }
 
@@ -219,7 +219,7 @@ text-decoration: underline;
 
 
 footer {
-background-color: #333;
+background-color: #232222;
 color: white;
 text-align: center;
 padding: 10px;
